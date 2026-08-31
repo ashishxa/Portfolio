@@ -67,7 +67,4 @@ No additional installation or dependencies are required.
 
 **Ashish Kumar**
 
-Frontend Developer | React.js | JavaScript | Python
 
-```
-```
